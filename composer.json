@@ -26,7 +26,6 @@
     ],
     "require": {
         "php": "^7.3 || ^8.0",
-        "composer-runtime-api": "^2.0",
         "behat/behat": "^3.5",
         "phpunit/php-code-coverage": "^9.2",
         "symfony/console": "^4.4||^5.0",
